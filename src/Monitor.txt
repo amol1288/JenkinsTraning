@@ -1,0 +1,2 @@
+###Added Monitoring Script####
+Monitor_App();
